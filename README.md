@@ -1,3 +1,3 @@
 Crowdfunding Analysis with Excel
 
-![alt text](screenshots/backer statistical analysis.png)
+![alt text](Crowdfunding-Analysis-with-Escel/screenshots/backer statistical analysis.png)
