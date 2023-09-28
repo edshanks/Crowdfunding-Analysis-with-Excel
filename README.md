@@ -1,5 +1,5 @@
 <h1> Crowdfunding Analysis with Excel</h1>
-<h5>This analyzes data from crowdfunding campaigns around the world in order to gain insight into what makes a crowdfuning campaign successful.</h5>
+<h3>This analyzes data from crowdfunding campaigns around the world in order to gain insight into what makes a crowdfuning campaign successful.</h3>
 
 **Raw Data**
 ![](screenshots/raw_data.png)<br/>
