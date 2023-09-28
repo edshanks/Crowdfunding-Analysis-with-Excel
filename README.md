@@ -1,5 +1,7 @@
 Crowdfunding Analysis with Excel
 
+![](screenshots/raw_data.png)
+
 ![](screenshots/backer_statistical_analysis.png)
 
 ![](screenshots/campaigns_by_month.png)
