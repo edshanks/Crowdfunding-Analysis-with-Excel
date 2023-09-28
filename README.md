@@ -7,6 +7,8 @@
 3. Campaigns started In June and July are the most likely to succeed, while campaigns started in August are the least likely to succeed.<br/>
 <br/>
 
+For a more in-depth analysis, please refer to "Analysis and Conclusions.docx' in the main repository.
+
 **Raw Data**
 ![](screenshots/raw_data.png)<br/>
 
