@@ -1,8 +1,11 @@
 <h1> Crowdfunding Analysis with Excel</h1>
 <h3>This project analyzes data from crowdfunding campaigns around the world in order to gain insight into what makes a crowdfuning campaign successful. The major findings from the project are:</h3>
 1. Crowdfunding campaigns are most prevalent in the United States. <br/>
+<br/>
 2. Theater, music, and film/video are the three most popular campaign categories, with plays, a sub-cateogry of the theater category, representing almost 35% of all campaigns.<br/>
+<br/>
 3. Campaigns started In June and July are the most likely to succeed, while campaigns started in August are the least likely to succeed.<br/>
+<br/>
 
 **Raw Data**
 ![](screenshots/raw_data.png)<br/>
