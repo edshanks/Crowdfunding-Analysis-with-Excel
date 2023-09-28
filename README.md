@@ -11,7 +11,8 @@ For a more in-depth analysis, please refer to "Analysis and Conclusions.docx' in
 <br/>
 
 <h2>Raw Data</h2><br/>
-![](screenshots/raw_data.png)<br/>
+
+![](screenshots/raw_data.png)
 
 <h2>Excel Analysis</h2>
 <h3>Below is a description of the sheets in the Excel Workbook used in this project. The workbook is titled 'Crowdfunding excel.xlsx' and can be found in the main repository.</h3>
