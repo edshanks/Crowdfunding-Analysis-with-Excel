@@ -18,7 +18,7 @@ The user can filter data by 'Parent Category' and 'Years' by using the dropdown 
 **Number of Campaigns Broken Down by Campaign Status (successful, live, failed, or cancelled) per Campaign Sub-category**
   
 The user can filter data by 'Country' and 'Parent Category' by using the dropdown menus at the top of the pivot table on the left.
-![](screenshots/campaigns_by_sub-category.png)
+![](screenshots/campaings_by_sub-category.png)
 
 
 **Number of Campaigns Broken Down by Campaign Status (successful, live, failed, or cancelled) per Campaign Category**
